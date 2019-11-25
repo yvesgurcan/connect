@@ -1,4 +1,4 @@
-# Let's connect!
+# How to connect with Yves Gurcan
 
 ## Resume
 
