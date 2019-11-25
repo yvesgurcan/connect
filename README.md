@@ -19,6 +19,7 @@
 ## Talks
 - REST vs GraphQL: A paradigm shift
 - Web Worker Workshop
+- Intro to Styled Components
 - Service Workers: Go Offline or Go Home
 
 ## Coaching
