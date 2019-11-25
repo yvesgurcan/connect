@@ -1,4 +1,7 @@
-# How to connect with Yves Gurcan
+# Let's connect!
+
+*Bonjour !* The name is Yves Gurcan. I'm a full stack developer since 2015.
+
 
 ## Resume
 
