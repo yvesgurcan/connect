@@ -14,6 +14,7 @@
 - GitHub
 - LinkedIn
 - Twitter
+- Live Chat
 - Website
 
 ## Talks
