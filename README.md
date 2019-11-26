@@ -14,7 +14,7 @@
 - Live Chat (coming soon!)
 
 ## Talks
-- REST vs GraphQL: A paradigm shift
+- [GraphQL vs REST: A paradigm shift](https://meetu.ps/e/Ht8YQ/yw9jN/d)
 - [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/)
 - Intro to Styled Components
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/)
