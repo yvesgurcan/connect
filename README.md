@@ -12,8 +12,8 @@
 - [GitHub](https://github.com/yvesgurcan)
 - [LinkedIn](http://linkedin.com/in/yvesgurcan)
 - [Twitter](https://twitter.com/yvesgurcan)
-- Live Chat (coming soon!)
 - [Website](https://yvesgurcan.com/)
+- Live Chat (coming soon!)
 
 ## Talks
 - REST vs GraphQL: A paradigm shift
