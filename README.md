@@ -11,7 +11,6 @@
 - [LinkedIn](http://linkedin.com/in/yvesgurcan)
 - [Twitter](https://twitter.com/yvesgurcan)
 - [Website](https://yvesgurcan.com/)
-- Live Chat (coming soon!)
 
 ## Talks
 - [GraphQL vs REST: A paradigm shift](https://meetu.ps/e/Ht8YQ/yw9jN/d)
