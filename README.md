@@ -23,3 +23,7 @@
 - [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
 - [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
 - [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
+
+## Projects
+
+- [JavaScript Games](https://games.yvesgurcan.com)
