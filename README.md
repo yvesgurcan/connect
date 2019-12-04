@@ -8,6 +8,7 @@
 - [Twitch](https://www.twitch.tv/yves_gurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
 - [Medium](https://medium.com/@yvesgurcan)
 - [GitHub](https://github.com/yvesgurcan)
+- [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
 - [LinkedIn](http://linkedin.com/in/yvesgurcan)
 - [Twitter](https://twitter.com/yvesgurcan)
 - [Website](https://yvesgurcan.com/)
