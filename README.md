@@ -14,12 +14,10 @@
 - [Website](https://yvesgurcan.com/)
 
 ## Talks
-- [GraphQL vs REST: A paradigm shift](https://meetu.ps/e/Ht8YQ/yw9jN/d)
-- [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/)
-- Intro to Styled Components
-- [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/)
-
-The content used to present the talks above can be found at <https://learn.yvesgurcan.com>.
+- [GraphQL vs REST: A paradigm shift](https://meetu.ps/e/Ht8YQ/yw9jN/d)([demo](https://graphql.yvesgurcan.com/))
+- [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/)([instructions](https://github.com/yvesgurcan/workers/tree/master/workshop))
+- Intro to Styled Components ([demo](https://styled.yvesgurcan.com/))
+- [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/)([slides](https://slides.com/yvesgurcan/sw#/))
 
 ## Coaching
 - [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
