@@ -19,7 +19,7 @@
 - Intro to Styled Components
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/)
 
-The content used to present the talks above can be found at https://learn.yvesgurcan.com.
+The content used to present the talks above can be found at <https://learn.yvesgurcan.com>.
 
 ## Coaching
 - [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
