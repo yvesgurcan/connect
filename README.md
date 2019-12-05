@@ -19,6 +19,8 @@
 - Intro to Styled Components
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/)
 
+The content used for these presentations can be found at https://learn.yvesgurcan.com.
+
 ## Coaching
 - [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
 - [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
