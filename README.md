@@ -14,7 +14,6 @@
 - [Website](https://yvesgurcan.com/)
 
 ## Talks
-- [GraphQL vs REST: A paradigm shift](https://meetu.ps/e/Ht8YQ/yw9jN/d) ([demo](https://graphql.yvesgurcan.com/) and [review](https://rest.yvesgurcan.com/))
 - [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://github.com/yvesgurcan/workers/tree/master/workshop))
 - Intro to Styled Components ([demo](https://styled.yvesgurcan.com/))
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
