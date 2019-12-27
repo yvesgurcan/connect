@@ -5,7 +5,7 @@
 
 ## Online presence
 
-- [LinkedIn](http://linkedin.com/in/yvesgurcan)
+- [LinkedIn](https://linkedin.com/in/yvesgurcan)
 - [GitHub](https://github.com/yvesgurcan)
 - [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
 - [NPM](https://www.npmjs.com/~yvesgurcan)
