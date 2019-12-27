@@ -5,9 +5,9 @@
 
 ## Online presence
 
-- [LinkedIn](http://linkedin.com/in/yvesgurcan
+- [LinkedIn](http://linkedin.com/in/yvesgurcan)
 - [GitHub](https://github.com/yvesgurcan)
-- [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan
+- [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
 - [NPM](https://www.npmjs.com/~yvesgurcan)
 - [Twitter](https://twitter.com/yvesgurcan)
 - [Twitch](https://www.twitch.tv/yves_gurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
