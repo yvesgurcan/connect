@@ -1,5 +1,6 @@
 ## Resume
 
+- [Microsoft Word Document](https://yvesgurcan.com/resume.docx)
 - [PDF](https://yvesgurcan.com/resume.pdf)
 - [HTML](https://stackoverflow.com/cv/yvesgurcan)
 
