@@ -1,4 +1,4 @@
-## Resume
+## Resume / CV
 
 - [Microsoft Word Document](https://yvesgurcan.com/resume.docx)
 - [PDF](https://yvesgurcan.com/resume.pdf)
