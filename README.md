@@ -31,3 +31,7 @@
 
 - [Web MIDI Player](https://midi.yvesgurcan.com)
 - [JavaScript Games](https://games.yvesgurcan.com)
+
+## Freelance
+
+- [Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/)
