@@ -37,7 +37,7 @@ permalink: /en
 - [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
 - [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
 
-## Open Source Projects
+## Open source projects
 
 - [Web MIDI Player](https://midi.yvesgurcan.com)
 - [JavaScript Games](https://games.yvesgurcan.com)
