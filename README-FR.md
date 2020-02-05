@@ -45,4 +45,4 @@ permalink: /fr
 
 ## Free-lance
 
-- [Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) (en anglais)
+- [Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) <sub><sup>en anglais</sup></sub>
