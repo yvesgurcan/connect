@@ -1,7 +1,7 @@
 ---
-permalink: /fr
-lang: fr
 description: 🌎 Comment entrer en contact avec Yves Gurcan
+lang: fr
+permalink: /fr
 ---
 
 <span id="flag">
