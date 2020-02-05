@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /
+permalink:
 ---
 
 ## Resume
