@@ -1,7 +1,7 @@
 ---
 permalink: /fr
 lang: fr
-title: 🌎 Comment entrer en contact avec Yves Gurcan
+description: 🌎 Comment entrer en contact avec Yves Gurcan
 ---
 
 ## Curriculum vitae
