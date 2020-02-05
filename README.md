@@ -1,4 +1,8 @@
-## Resume / CV
+---
+lang: en
+---
+
+## Resume
 
 - [Microsoft Word Document](https://yvesgurcan.com/resume.docx)
 - [PDF](https://yvesgurcan.com/resume.pdf)
@@ -21,7 +25,7 @@
 - Intro to Styled Components ([demo](https://styled.yvesgurcan.com/))
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
 
-## Mentor / Coach
+## Mentor
 
 - [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
 - [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
