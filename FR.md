@@ -4,10 +4,10 @@ lang: fr
 description: 🌎 Comment entrer en contact avec Yves Gurcan
 ---
 
-<div id="flag">
+<span id="flag">
 [![anglais](./assets/images/french-flag.png "Cliquez ici pour la version en anglais.")](./en)
 [![français](./assets/images/us-flag.png "Cliquez ici pour la version en français.")](./fr)
-</div>
+</span>
 
 ## Curriculum vitae
 
