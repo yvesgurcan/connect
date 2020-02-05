@@ -11,7 +11,7 @@ permalink: /fr
 
 ## Curriculum vitae
 
-- [Microsoft Word Document](https://yvesgurcan.com/resume.docx) <sub><sup>en anglais</sup></sub>
+- [Document Microsoft Word](https://yvesgurcan.com/resume.docx) <sub><sup>en anglais</sup></sub>
 - [PDF](https://yvesgurcan.com/resume.pdf) <sub><sup>en anglais</sup></sub>
 - [HTML](https://stackoverflow.com/cv/yvesgurcan) <sub><sup>en anglais</sup></sub>
 
