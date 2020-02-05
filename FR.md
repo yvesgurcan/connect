@@ -17,7 +17,7 @@ description: 🌎 Comment entrer en contact avec Yves Gurcan
 
 ## Présence en ligne
 
-- [LinkedIn](https://linkedin.com/in/yvesgurcan)
+- [LinkedIn](https://www.linkedin.com/in/yvesgurcan/?locale=fr_FR)
 - [GitHub](https://github.com/yvesgurcan) / [GitLab](https://gitlab.com/yvesgurcan)
 - [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
 - [NPM](https://www.npmjs.com/~yvesgurcan)
