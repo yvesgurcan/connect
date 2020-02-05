@@ -298,6 +298,11 @@ section {
       display: flex;
       align-items: center;
       justify-content: center;
+
+      img {
+        margin-left: 5px;
+        margin-right: 5px;
+      }
     }
   }
 }
