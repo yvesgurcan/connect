@@ -5,11 +5,8 @@ permalink: /fr
 ---
 
 <span id="flag">
-
 [![anglais](./assets/images/us-flag.png "Cliquez ici pour la version en anglais.")](./en)
-
 [![français](./assets/images/french-flag.png "Cliquez ici pour la version en français.")](./fr)
-
 </span>
 
 ## Curriculum vitae
