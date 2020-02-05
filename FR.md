@@ -1,5 +1,6 @@
 ---
 lang: fr
+permalink: /fr
 ---
 
 ## Curriculum vitae
