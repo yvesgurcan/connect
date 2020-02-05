@@ -4,8 +4,8 @@ lang: en
 ---
 
 <span id="flag">
-[![french](./assets/images/french-flag.png "Click here for French version.")](./en)
-[![english](./assets/images/us-flag.png "Click here for English version.")](.fr)
+[![french](./assets/images/french-flag.png "Click here for French version.")](./fr)
+[![english](./assets/images/us-flag.png "Click here for English version.")](./en)
 </span>
 
 ## Resume
