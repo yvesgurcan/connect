@@ -21,7 +21,7 @@ permalink: /fr
 - [GitHub](https://github.com/yvesgurcan) / [GitLab](https://gitlab.com/yvesgurcan) <sub><sup>en anglais</sup></sub>
 - [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan) <sub><sup>en anglais</sup></sub>
 - [NPM](https://www.npmjs.com/~yvesgurcan) <sub><sup>en anglais</sup></sub>
-- [Twitter](https://twitter.com/yvesgurcan) <sub><sup>en anglais</sup></sub>
+- [Twitter](https://twitter.com/YvesGurcanFR)
 - [Medium](https://medium.com/@yvesgurcan) / [DEV](https://dev.to/yvesgurcan) <sub><sup>en anglais</sup></sub>
 - [Twitch](https://www.twitch.tv/yves_gurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos) <sub><sup>en anglais</sup></sub>
 - [Website](https://yvesgurcan.com/) <sub><sup>en anglais</sup></sub>
