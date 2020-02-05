@@ -3,8 +3,7 @@ permalink: /en
 lang: en
 ---
 
-![french](./assets/images/french-flag.png "Click here for French version")
-![english](./assets/images/us-flag.png "Click here for English version")
+![french](./assets/images/french-flag.png "Click here for French version.") ![english](./assets/images/us-flag.png "Click here for English version.")
 
 ## Resume
 

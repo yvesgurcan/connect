@@ -4,6 +4,8 @@ lang: fr
 description: 🌎 Comment entrer en contact avec Yves Gurcan
 ---
 
+![anglais](./assets/images/french-flag.png "Cliquez ici pour la version en anglais.") ![français](./assets/images/us-flag.png "Cliquez ici pour la version en français.")
+
 ## Curriculum vitae
 
 - [Microsoft Word Document](https://yvesgurcan.com/resume.docx)
