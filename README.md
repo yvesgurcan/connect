@@ -27,7 +27,7 @@ permalink: /en
 
 ## Talks
 
-- [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://github.com/yvesgurcan/workers/tree/master/workshop))
+- [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
 - Intro to Styled Components ([demo](https://styled.yvesgurcan.com/))
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
 
