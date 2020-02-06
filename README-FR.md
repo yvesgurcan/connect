@@ -42,7 +42,7 @@ permalink: /fr
 ## Projets de logiciels libres
 
 - [Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
-- [JavaScript Games](https://games.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
+- [Jeux Javascript](https://games.yvesgurcan.com/fr)
 
 ## Free-lance
 
