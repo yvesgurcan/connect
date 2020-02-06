@@ -1,4 +1,5 @@
 ---
+title: contact
 description: 🌎 Comment entrer en contact avec Yves Gurcan
 lang: fr
 permalink: /fr
