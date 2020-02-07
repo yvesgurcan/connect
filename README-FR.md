@@ -30,7 +30,7 @@ permalink: /fr
 ## Présentations
 
 - [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
-- Intro to Styled Components ([demo](https://styled.yvesgurcan.com/#/fr)
+- Intro to Styled Components ([demo](https://styled.yvesgurcan.com/#/fr))
 - [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/)) <sub><sup>en anglais</sup></sub>
 
 ## Mentor
