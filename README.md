@@ -27,9 +27,10 @@ permalink: /en
 
 ## Talks
 
-- [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
-- Intro to Styled Components ([demo](https://styled.yvesgurcan.com/))
-- [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
+- February 18, 2020: [https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/](AWS CloudFormation: A Stack in the Sky) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
+- November 1, 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
+- October 11, 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/))
+- June 27, 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
 
 ## Mentor
 
