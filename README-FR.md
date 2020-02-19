@@ -29,7 +29,7 @@ permalink: /fr
 
 ## Présentations
 
-- 8 février 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
+- 8 février 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/)) <sub><sup>en anglais</sup></sub>
 - 1er november 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
 - 11 octobre 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/#/fr))
 - 27 juin 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/)) <sub><sup>en anglais</sup></sub>
