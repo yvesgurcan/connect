@@ -22,7 +22,7 @@ permalink: /en
 - [NPM](https://www.npmjs.com/~yvesgurcan)
 - [Twitter](https://twitter.com/yvesgurcan)
 - [Medium](https://medium.com/@yvesgurcan) / [DEV](https://dev.to/yvesgurcan)
-- [Twitch](https://www.twitch.tv/yves_gurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
+- [Twitch](https://www.twitch.tv/yvesgurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
 - [Website](https://yvesgurcan.com/)
 
 ## Talks
