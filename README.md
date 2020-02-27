@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /preview
+permalink: /en
 ---
 
 <span id="flag">
