@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /en
+permalink: /preview
 ---
 
 <span id="flag">
@@ -16,27 +16,27 @@ permalink: /en
 
 ## Online presence
 
-- [LinkedIn](https://linkedin.com/in/yvesgurcan)
-- [GitHub](https://github.com/yvesgurcan) / [GitLab](https://gitlab.com/yvesgurcan)
-- [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
-- [NPM](https://www.npmjs.com/~yvesgurcan)
-- [Twitter](https://twitter.com/yvesgurcan)
-- [Medium](https://medium.com/@yvesgurcan) / [DEV](https://dev.to/yvesgurcan)
-- [Twitch](https://www.twitch.tv/yvesgurcan/videos) / [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
+- [![LinkedIn](./assets/images/social-media/linkedin.svg) LinkedIn](https://linkedin.com/in/yvesgurcan)
+- [![GitHub](./assets/images/social-media/github.svg) GitHub](https://github.com/yvesgurcan) / [![LinkedIn](./assets/images/social-media/gitlab.svg) GitLab](https://gitlab.com/yvesgurcan)
+- [![Stack Overflow](./assets/images/social-media/stackoverflow.svg) Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
+- [![NPM](./assets/images/social-media/npm.svg) NPM](https://www.npmjs.com/~yvesgurcan)
+- [![Twitter](./assets/images/social-media/twitter.svg) Twitter](https://twitter.com/yvesgurcan)
+- [![Medium](./assets/images/social-media/medium.svg) Medium](https://medium.com/@yvesgurcan) / [![DEV](./assets/images/social-media/dev.svg) DEV](https://dev.to/yvesgurcan)
+- [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/yvesgurcan/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
 - [Website](https://yvesgurcan.com/)
 
 ## Talks
 
-- February 18, 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
-- November 1, 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
-- October 11, 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/))
-- June 27, 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
+- ![Meetup](./assets/images/social-media/meetup.svg) February 18, 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
+- ![Meetup](./assets/images/social-media/meetup.svg) November 1, 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
+- ![Meetup](./assets/images/social-media/meetup.svg) October 11, 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/))
+- ![Meetup](./assets/images/social-media/meetup.svg) June 27, 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
 
 ## Mentor
 
-- November 8-10, 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
-- October 21-25, 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
-- April 13, 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
+- ![Startup Weekend](./assets/images/social-media/startupweekend.svg) November 8-10, 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
+- <img src="./assets/images/social-media/womenintech.png" height="18"> October 21-25, 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
+- ![Meetup](./assets/images/social-media/meetup.svg) April 13, 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
 
 ## Open source projects
 
@@ -45,4 +45,4 @@ permalink: /en
 
 ## Freelance
 
-- [Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/)
+- [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/)
