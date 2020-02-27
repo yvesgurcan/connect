@@ -36,9 +36,9 @@ permalink: /fr
 
 ## Mentor
 
-- [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837) <sub><sup>en anglais</sup></sub>
-- [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25) <sub><sup>en anglais</sup></sub>
-- [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/) <sub><sup>en anglais</sup></sub>
+- 8 au 10 novembre 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837) <sub><sup>en anglais</sup></sub>
+- 21 au 25 octobre 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25) <sub><sup>en anglais</sup></sub>
+- 13 avril 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/) <sub><sup>en anglais</sup></sub>
 
 ## Projets de logiciels libres
 
