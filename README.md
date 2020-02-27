@@ -23,7 +23,7 @@ permalink: /en
 - [![Twitter](./assets/images/social-media/twitter.svg) Twitter](https://twitter.com/yvesgurcan)
 - [![Medium](./assets/images/social-media/medium.svg) Medium](https://medium.com/@yvesgurcan) / [![DEV](./assets/images/social-media/dev.svg) DEV](https://dev.to/yvesgurcan)
 - [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/yvesgurcan/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
-- 🏠 [Website](https://yvesgurcan.com/)
+- [🏠 Website](https://yvesgurcan.com/)
 
 ## Talks
 
@@ -40,8 +40,8 @@ permalink: /en
 
 ## Open source projects
 
-- 🎹 [Web MIDI Player](https://midi.yvesgurcan.com)
-- 🕹️ [JavaScript Games](https://games.yvesgurcan.com)
+- [🎹 Web MIDI Player](https://midi.yvesgurcan.com)
+- [🕹️ JavaScript Games](https://games.yvesgurcan.com)
 
 ## Freelance
 
