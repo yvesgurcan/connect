@@ -25,7 +25,7 @@ permalink: /fr
 - [![Twitter](./assets/images/social-media/twitter.svg) Twitter](https://twitter.com/YvesGurcanFR)
 - [![Medium](./assets/images/social-media/medium.svg) Medium](https://medium.com/@yvesgurcan) / [![DEV](./assets/images/social-media/dev.svg) DEV](https://dev.to/yvesgurcan) <sub><sup>en anglais</sup></sub>
 - [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/yvesgurcan/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos) <sub><sup>en anglais</sup></sub>
-- [Website](https://yvesgurcan.com/) <sub><sup>en anglais</sup></sub>
+- 🏠 [Website](https://yvesgurcan.com/) <sub><sup>en anglais</sup></sub>
 
 ## Présentations
 
@@ -42,9 +42,9 @@ permalink: /fr
 
 ## Projets de logiciels libres
 
-- [Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
+- 🎹 [Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
 - [Jeux Javascript](https://games.yvesgurcan.com/fr)
 
 ## Free-lance
 
-- [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) <sub><sup>en anglais</sup></sub>
+- 🕹️ [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) <sub><sup>en anglais</sup></sub>
