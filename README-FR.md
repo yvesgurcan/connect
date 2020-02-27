@@ -19,8 +19,8 @@ permalink: /fr
 ## Présence en ligne
 
 - [![LinkedIn](./assets/images/social-media/linkedin.svg) LinkedIn](https://www.linkedin.com/in/yvesgurcan/?locale=fr_FR)
-- [[GitHub](./assets/images/social-media/github.svg) GitHub](https://github.com/yvesgurcan) / [![LinkedIn](./assets/images/social-media/gitlab.svg) GitLab](https://gitlab.com/yvesgurcan) <sub><sup>en anglais</sup></sub>
-- [[Stack Overflow](./assets/images/social-media/stackoverflow.svg) Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan) <sub><sup>en anglais</sup></sub>
+- [![GitHub](./assets/images/social-media/github.svg) GitHub](https://github.com/yvesgurcan) / [![LinkedIn](./assets/images/social-media/gitlab.svg) GitLab](https://gitlab.com/yvesgurcan) <sub><sup>en anglais</sup></sub>
+- [![Stack Overflow](./assets/images/social-media/stackoverflow.svg) Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan) <sub><sup>en anglais</sup></sub>
 - [![NPM](./assets/images/social-media/npm.svg) NPM](https://www.npmjs.com/~yvesgurcan) <sub><sup>en anglais</sup></sub>
 - [![Twitter](./assets/images/social-media/twitter.svg) Twitter](https://twitter.com/YvesGurcanFR)
 - [![Medium](./assets/images/social-media/medium.svg) Medium](https://medium.com/@yvesgurcan) / [![DEV](./assets/images/social-media/dev.svg) DEV](https://dev.to/yvesgurcan) <sub><sup>en anglais</sup></sub>
