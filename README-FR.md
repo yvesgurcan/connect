@@ -29,16 +29,16 @@ permalink: /fr
 
 ## Présentations
 
-- ![Meetup](./assets/images/social-media/meetup.svg) 18 février 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/)) <sub><sup>en anglais</sup></sub>
-- ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> november 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
-- ![Meetup](./assets/images/social-media/meetup.svg) 11 octobre 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/#/fr))
-- ![Meetup](./assets/images/social-media/meetup.svg) 27 juin 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/)) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 18 février 2020 : [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/)) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> november 2019 : [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 11 octobre 2019 : [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/#/fr))
+- ![Meetup](./assets/images/social-media/meetup.svg) 27 juin 2019 : [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/)) <sub><sup>en anglais</sup></sub>
 
 ## Mentor
 
-- ![Startup Weekend](./assets/images/social-media/startupweekend.svg) 8 au 10 novembre 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837) <sub><sup>en anglais</sup></sub>
-- <img src="./assets/images/social-media/womenintech.png" height="18"> 21 au 25 octobre 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25) <sub><sup>en anglais</sup></sub>
-- ![Meetup](./assets/images/social-media/meetup.svg) 13 avril 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/) <sub><sup>en anglais</sup></sub>
+- ![Startup Weekend](./assets/images/social-media/startupweekend.svg) 8 au 10 novembre 2019 : [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837) <sub><sup>en anglais</sup></sub>
+- <img src="./assets/images/social-media/womenintech.png" height="18"> 21 au 25 octobre 2019 : [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 13 avril 2019 : [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/) <sub><sup>en anglais</sup></sub>
 
 ## Projets de logiciels libres
 
