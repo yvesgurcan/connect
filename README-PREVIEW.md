@@ -51,26 +51,23 @@ permalink: /preview
 
 - How do you say your name?
 - Can you send me your resume?
-- What brought you to the US?
+- How many years of experience do you have?
 - How did you become a software engineer?
-- Back-end or front-end?
-- How do you approach a problem?
-- Are you familiar with the software development life cycle?
-- Are you familiar with version control?
-- Have you worked with Agile methodologies?
 - What kind of role are you interested in?
+- Would you consider contracting work?
+- Are you willing to relocate?
+- Are you open to work remotely?
 - What's your strength?
 - What's your weakness?
-- What's your salary expectation?
-- Are you open to remote work?
 - Which project you worked on is your favorite?
 - Which project you worked on is your least favorite?
+- How do you approach a problem?
+- Back-end or front-end?
+- Are you familiar with version control?
+- Have you worked in Agile environments?
+- What's your experience with test frameworks?
 - Which design patterns are you familiar with?
+- Are you familiar with the software development life cycle?
 - What's the last technology you experimented with?
-- Are you willing to relocate?
-- Do you write tests?
-- Would you consider contracting work?
-- How many years of experience do you have?
-- How did you transition from studying the humanities to web development?
-- Are you familiar with functional programming?
 - Have you worked with graphic designers before?
+- What's your salary expectation?
