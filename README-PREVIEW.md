@@ -49,31 +49,31 @@ permalink: /preview
 
 ## Frequently asked questions
 
-- How do you say your name?
+- **How do you say your name?**
 
 It's spelled Yves but it's actually pronounced "Eve". Like Adam and Eve. Or Steve. I know it can be difficult to guess the pronunciation, so don't worry too much about it. And if you're wondering, Yves is a French name. 🇫🇷 
 
-- Can you send me your resume?
+- **Can you send me your resume?**
 
 [My resume is available for download in various formats](#resume) at the top of this page. Don't hesitate to [message me on LinkedIn](https://www.linkedin.com/in/yvesgurcan) if you are interested in particular skillsets. I would be happy to send you a resume that better demonstrates my most relevant experience to you.
 
-- How many years of experience do you have?
-- How did you become a software engineer?
-- What kind of role are you interested in?
-- Would you consider contracting work?
-- Are you willing to relocate?
-- Are you open to work remotely?
-- What's your strength?
-- What's your weakness?
-- Which project you worked on is your favorite?
-- Which project you worked on is your least favorite?
-- How do you approach a problem?
-- Back-end or front-end?
-- Are you familiar with version control?
-- Have you worked in Agile environments?
-- What's your experience with test frameworks?
-- Which design patterns are you familiar with?
-- Are you familiar with the software development life cycle?
-- What's the last technology you experimented with?
-- Have you worked with graphic designers before?
-- What's your salary expectation?
+- **How many years of experience do you have?**
+- **How did you become a software engineer?**
+- **What kind of role are you interested in?**
+- **Would you consider contracting work?**
+- **Are you willing to relocate?**
+- **Are you open to work remotely?**
+- **What's your strength?**
+- **What's your weakness?**
+- **Which project you worked on is your favorite?**
+- **Which project you worked on is your least favorite?**
+- **How do you approach a problem?**
+- **Back-end or front-end?**
+- **Are you familiar with version control?**
+- **Have you worked in Agile environments?**
+- **What's your experience with test frameworks?**
+- **Which design patterns are you familiar with?**
+- **Are you familiar with the software development life cycle?**
+- **What's the last technology you experimented with?**
+- **Have you worked with graphic designers before?**
+- **What's your salary expectation?**
