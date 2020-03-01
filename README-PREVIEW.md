@@ -47,10 +47,16 @@ permalink: /preview
 
 - [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 - How do you say your name?
+
+It's spelled Yves but it's actually pronounced "Eve". Like Adam and Eve. Or Steve. I know it can be difficult to guess the pronunciation, so don't worry too much about it. And if you're wondering, Yves is a French name 🇫🇷. 
+
 - Can you send me your resume?
+
+[My resume is available for download in various formats](#resume) at the top of this page. Don't hesitate to [message me on LinkedIn](https://www.linkedin.com/in/yvesgurcan) if you are interested in particular skillsets. I would be happy to send you a resume that is tailored to better demonstrate my most relevant experience to you.
+
 - How many years of experience do you have?
 - How did you become a software engineer?
 - What kind of role are you interested in?
