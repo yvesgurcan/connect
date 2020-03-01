@@ -51,7 +51,7 @@ permalink: /preview
 
 - How do you say your name?
 
-It's spelled Yves but it's actually pronounced "Eve". Like Adam and Eve. Or Steve. I know it can be difficult to guess the pronunciation, so don't worry too much about it. And if you're wondering, Yves is a French name 🇫🇷. 
+It's spelled Yves but it's actually pronounced "Eve". Like Adam and Eve. Or Steve. I know it can be difficult to guess the pronunciation, so don't worry too much about it. And if you're wondering, Yves is a French name. 🇫🇷 
 
 - Can you send me your resume?
 
