@@ -55,7 +55,7 @@ It's spelled Yves but it's actually pronounced "Eve". Like Adam and Eve. Or Stev
 
 - Can you send me your resume?
 
-[My resume is available for download in various formats](#resume) at the top of this page. Don't hesitate to [message me on LinkedIn](https://www.linkedin.com/in/yvesgurcan) if you are interested in particular skillsets. I would be happy to send you a resume that better demonstrate my most relevant experience to you.
+[My resume is available for download in various formats](#resume) at the top of this page. Don't hesitate to [message me on LinkedIn](https://www.linkedin.com/in/yvesgurcan) if you are interested in particular skillsets. I would be happy to send you a resume that better demonstrates my most relevant experience to you.
 
 - How many years of experience do you have?
 - How did you become a software engineer?
