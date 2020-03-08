@@ -43,7 +43,7 @@ permalink: /fr
 ## Projets de logiciels libres
 
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
-- [🕹️ Jeux Javascript](https://games.yvesgurcan.com/fr)
+- [🕹️ Jeux JavaScript](https://games.yvesgurcan.com/fr)
 
 ## Free-lance
 
