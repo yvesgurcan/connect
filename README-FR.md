@@ -45,10 +45,6 @@ permalink: /fr
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
 - [🕹️ Jeux JavaScript](https://games.yvesgurcan.com/fr)
 
-## Free-lance
-
-- [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) <sub><sup>en anglais</sup></sub>
-
 ## Mettre en place un rendez-vous
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan/chat" style="min-width:320px;height:630px;"></div>
