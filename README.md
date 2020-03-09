@@ -49,5 +49,5 @@ permalink: /en
 
 ## Schedule a time to talk
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan/chat?hide_landing_page_details=1" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan/chat" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
