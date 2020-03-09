@@ -49,7 +49,7 @@ permalink: /fr
 
 - [![LinkedIn](./assets/images/social-media/upwork.svg) Upwork](https://www.upwork.com/o/profiles/users/~01597447d3d6d1ea57/) <sub><sup>en anglais</sup></sub>
 
-## 
+## Mettre en place un rendez-vous
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan?hide_landing_page_details=1" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan/chat" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
