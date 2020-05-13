@@ -44,6 +44,8 @@ permalink: /fr
 
 ## Projets de logiciels libres
 
+
+- [♞ Chess Project](https://chessproject.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
 - [🕹️ Jeux JavaScript](https://games.yvesgurcan.com/fr)
 
