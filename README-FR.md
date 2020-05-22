@@ -29,7 +29,7 @@ permalink: /fr
 
 ## Présentations
 
-- ![Meetup](./assets/images/social-media/meetup.svg) 19 mai 2020 : [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 19 mai 2020 : [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> mai 2020 : Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 18 février 2020 : [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> november 2019 : [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
