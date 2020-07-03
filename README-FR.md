@@ -27,11 +27,12 @@ permalink: /fr
 - [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/yvesgurcan/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos) <sub><sup>en anglais</sup></sub>
 - [🏠 Website](https://yvesgurcan.com/) <sub><sup>en anglais</sup></sub>
 
-## Présentations
+## Intervenant
 
 - ![Meetup](./assets/images/social-media/meetup.svg) 19 mai 2020 : [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> mai 2020 : Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 18 février 2020 : [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/)) <sub><sup>en anglais</sup></sub>
+- ![Meetup](./assets/images/social-media/meetup.svg) 16 janvier 2020 : [Web Workers: Get off my thread!](https://www.meetup.com/front-end-small-talk/events/266240588/) ([slides](https://slides.com/yvesgurcan/webworkers)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> november 2019 : [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 11 octobre 2019 : [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/#/fr))
 - ![Meetup](./assets/images/social-media/meetup.svg) 27 juin 2019 : [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/)) <sub><sup>en anglais</sup></sub>
