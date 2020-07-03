@@ -25,11 +25,12 @@ permalink: /en
 - [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/yvesgurcan/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
 - [🏠 Website](https://yvesgurcan.com/)
 
-## Talks
+## Speaker
 
 - ![Meetup](./assets/images/social-media/meetup.svg) May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam))
 - ![Meetup](./assets/images/social-media/meetup.svg) May 1, 2020: Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples))
 - ![Meetup](./assets/images/social-media/meetup.svg) February 18, 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
+- ![Meetup](./assets/images/social-media/meetup.svg) January 16, 220: [Web Workers: Get off my thread!](https://www.meetup.com/front-end-small-talk/events/266240588/) ([slides](https://slides.com/yvesgurcan/webworkers))
 - ![Meetup](./assets/images/social-media/meetup.svg) November 1, 2019: [Web Worker Workshop](https://www.meetup.com/Elm-Eug/events/gnzgkryzpbcb/) ([instructions](https://workers.yvesgurcan.com/workshop/))
 - ![Meetup](./assets/images/social-media/meetup.svg) October 11, 2019: [Intro to Styled Components](https://www.meetup.com/Elm-Eug/events/qsrfjryznbpb/) ([demo](https://styled.yvesgurcan.com/))
 - ![Meetup](./assets/images/social-media/meetup.svg) June 27, 2019: [Service Workers: Go Offline or Go Home](https://www.meetup.com/eugenewebdevs/events/261941044/) ([slides](https://slides.com/yvesgurcan/sw#/))
