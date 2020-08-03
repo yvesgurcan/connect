@@ -37,7 +37,7 @@ permalink: /en
 
 ## Mentor
 
-- August 2 to September 27: [The Collab Lab](https://the-collab-lab.codes/)
+- <img src="./assets/images/social-media/collablab.png" height="18"> August 2 to September 27: [The Collab Lab](https://the-collab-lab.codes/)
 - ![Startup Weekend](./assets/images/social-media/startupweekend.svg) November 8-10, 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
 - <img src="./assets/images/social-media/womenintech.png" height="18"> October 21-25, 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
 - ![Meetup](./assets/images/social-media/meetup.svg) April 13, 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
