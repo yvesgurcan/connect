@@ -29,7 +29,7 @@ permalink: /fr
 
 ## Intervenant
 
-
+- 20 janvier 2022:  Polite pull requests: A guide to emotionally intelligent code reviews ([slides](https://slides.com/yvesgurcan/pr/)) <sub><sup>en anglais</sup>
 - ![Meetup](./assets/images/social-media/meetup.svg) 5 septembre 2020 : [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit)) <sub><sup>en anglais</sup>
 - ![Meetup](./assets/images/social-media/meetup.svg) 19 mai 2020 : [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam)) <sub><sup>en anglais</sup></sub>
 - ![Meetup](./assets/images/social-media/meetup.svg) 1<sup>er</sup> mai 2020 : Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples)) <sub><sup>en anglais</sup></sub>
