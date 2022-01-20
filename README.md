@@ -27,6 +27,7 @@ permalink: /en
 
 ## Speaker
 
+- January 20, 2022: Polite pull requests: A guide to emotionally intelligent code reviews ([slides](https://slides.com/yvesgurcan/pr/))
 - ![Meetup](./assets/images/social-media/meetup.svg) September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
 - ![Meetup](./assets/images/social-media/meetup.svg) May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam))
 - ![Meetup](./assets/images/social-media/meetup.svg) May 1, 2020: Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples))
