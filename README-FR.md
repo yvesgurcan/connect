@@ -52,9 +52,8 @@ permalink: /fr
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com) <sub><sup>en anglais</sup></sub>
 - [🕹️ Jeux JavaScript](https://games.yvesgurcan.com/fr)
 
-## Mettre en place un rendez-vous
-
 <!--
+## Mettre en place un rendez-vous
 <div class="calendly-inline-widget" data-url="https://calendly.com/yvesgurcan/chat" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 -->
