@@ -25,6 +25,9 @@ permalink: /en
 
 ## Speaker
 
+- January 11, 2023: [Enhancing developer efficiency with ChatGPT (with Ashwin Sundar)](https://www.youtube.com/watch?v=w2nqCYvcBq0&t=150)
+- November 16, 2022: [The T3 stack (with Nic Ford)](https://www.youtube.com/watch?v=eFJx7LdM7dg&t=456)
+- November 10, 2022: [High-level estimates (with Leia Pitcher and Tanner Juby)](https://www.youtube.com/watch?v=I6ylMsBHWH8&t=74)
 - January 20, 2022: [Polite pull requests: A guide to emotionally intelligent code reviews](https://www.youtube.com/watch?v=PY-r2T_tTXI&t=321) ([slides](https://slides.com/yvesgurcan/pr/))
 - ![Meetup](./assets/images/social-media/meetup.svg) September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak&t=1695) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
 - ![Meetup](./assets/images/social-media/meetup.svg) May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.youtube.com/watch?v=uN3a8r4qeZY&t=1112) ([slides](https://slides.com/yvesgurcan/aws-sam))
