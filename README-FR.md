@@ -27,6 +27,9 @@ permalink: /fr
 
 ## Intervenant
 
+- 11 janvier 2023 : [Enhancing developer efficiency with ChatGPT (with Ashwin Sundar)](https://www.youtube.com/watch?v=w2nqCYvcBq0&t=150) <sub><sup>en anglais</sup>
+- 16 novembre 2022 : [The T3 stack (with Nic Ford)](https://www.youtube.com/watch?v=eFJx7LdM7dg&t=456) <sub><sup>en anglais</sup>
+- 10 novembre 2022 : [High-level estimates (with Leia Pitcher and Tanner Juby)](https://www.youtube.com/watch?v=I6ylMsBHWH8&t=74) <sub><sup>en anglais</sup>
 - 20 janvier 2022:  [Polite pull requests: A guide to emotionally intelligent code reviews](https://www.youtube.com/watch?v=PY-r2T_tTXI&t=321) ([slides](https://slides.com/yvesgurcan/pr/)) <sub><sup>en anglais</sup>
 - ![Meetup](./assets/images/social-media/meetup.svg) 5 septembre 2020 : [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak&t=1695) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit)) <sub><sup>en anglais</sup>
 - ![Meetup](./assets/images/social-media/meetup.svg) 19 mai 2020 : [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.youtube.com/watch?v=uN3a8r4qeZY&t=1112) ([slides](https://slides.com/yvesgurcan/aws-sam)) <sub><sup>en anglais</sup></sub>
