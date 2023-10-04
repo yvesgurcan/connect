@@ -20,7 +20,7 @@ permalink: /en
 - [![NPM](./assets/images/social-media/npm.svg) NPM](https://www.npmjs.com/~yvesgurcan)
 - [![Twitter](./assets/images/social-media/twitter.svg) Twitter](https://twitter.com/yvesgurcan)
 - [![Medium](./assets/images/social-media/medium.svg) Medium](https://medium.com/@yvesgurcan) / [![DEV](./assets/images/social-media/dev.svg) DEV](https://dev.to/yvesgurcan)
-- [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/letoseldon/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
+- [![Twitch](./assets/images/social-media/twitch.svg) Twitch](https://www.twitch.tv/deptagencyus/videos) / [![YouTube](./assets/images/social-media/youtube.svg) YouTube](https://www.youtube.com/channel/@yvesgurcan/videos)
 - [🏠 Website](https://yvesgurcan.com/)
 
 ## Speaker
